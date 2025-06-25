@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0BE890&width=435&lines=Frontend+Developer_;Always+learning%2C+always+coding;MERN+Stack+Developer_" alt="Typing SVG" /></a>
+
 <h1 align="center">Hi 👋, I'm Md. Mahatab Hosen Raju</h1>
 <h3 align="center">💻 A proactive MERN-Stack Developer from Bangladesh, passionate about building dynamic and intuitive web applications with React, Next.js, Node.js, Express, and MongoDB. Always exploring the web—one project at a time.</h3>
 
