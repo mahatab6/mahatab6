@@ -1,25 +1,68 @@
-<img src="always coding.png" alt="Mahatab Github Cover Image">
+<!-- Cover Image -->
+<img src="always coding.png" alt="Mahatab Github Cover Image" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0BE890&width=435&lines=Frontend+Developer_;Always+learning%2C+always+coding;MERN+Stack+Developer_" alt="Typing SVG" /></a>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0BE890&width=435&lines=Frontend+Developer_;Always+learning%2C+always+coding;MERN+Stack+Developer_" alt="Typing SVG" />
+</a>
 
 <h1 align="center">Hi 👋, I'm Md. Mahatab Hosen Raju</h1>
 <h3 align="center">💻 A proactive MERN-Stack Developer from Bangladesh, passionate about building dynamic and intuitive web applications with React, Next.js, Node.js, Express, and MongoDB. Always exploring the web—one project at a time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahatab6&label=Profile%20views&color=0e75b6&style=flat" alt="mahatab6" /> </p>
-
-- 🌱 I’m currently learning **Next.js, Node.js, full-stack web**
-
-- 💬 Ask me about **React,Next.js**
-
-- 📫 How to reach me **mahatabcall56@gmail.com**
-
-- ⚡ Fun fact **I turn coffee into clean code and pixels into purpose!**
-
-<h3 align="left">Where to find me:</h3>
 <p align="left">
-<a href="https://fb.com/mahatab156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahatab156" height="30" width="40" /></a>
-<a href="https://discord.gg/mdmahatabhosenraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdmahatabhosenraju" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mahatab6&label=Profile%20views&color=0e75b6&style=flat" alt="mahatab6" />
 </p>
+
+---
+
+## 🧠 About Me
+
+<table>
+<tr>
+<td>
+
+- 💻 I’m currently working on:  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- 🤓 I’m currently learning:  
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+- 🛠 I work using:  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+- 🙋 I’m looking for help in:  
+  ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+- 💬 Ask me about:  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- 📫 How to reach me:  
+  [![Gmail](https://img.shields.io/badge/-mahatabcall56@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahatabcall56@gmail.com)  
+  [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/mahatab156)  
+  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mdmahatabhosenraju)
+
+- 🧰 Projects are available at:  
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahatab6)  
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+
+- 🌍 Let’s connect and collaborate on exciting projects!
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Skills
 
@@ -27,7 +70,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -61,12 +103,11 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_Dev_Tools-F7DF1E?style=flat-square&logo=google-chrome&logoColor=black)
 
+---
 
 ## 📊 GitHub Stats
 
 ![mahatab6's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahatab6&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatab6&layout=compact&theme=github_dark&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahatab6&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
