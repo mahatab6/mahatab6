@@ -62,4 +62,11 @@
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_Dev_Tools-F7DF1E?style=flat-square&logo=google-chrome&logoColor=black)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatab6&show_icons=true&locale=en&layout=compact" alt="mahatab6" /></p>
+## 📊 GitHub Stats
+
+![mahatab6's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahatab6&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatab6&layout=compact&theme=github_dark&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahatab6&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
