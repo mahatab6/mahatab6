@@ -51,7 +51,7 @@
 
 - 🧰 Projects are available at:  
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahatab6)  
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+  
 
 - 🌍 Let’s connect and collaborate on exciting projects!
 
