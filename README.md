@@ -7,11 +7,11 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Md. Mahatab Hosen Raju</h1>
-<h3 align="center">💻 A proactive MERN-Stack Developer from Bangladesh, passionate about building dynamic and intuitive web applications with React, Next.js, Node.js, Express, and MongoDB. Always exploring the web—one project at a time.</h3>
+<h3 align="center">💻 A proactive MERN-Stack Developer from Bangladesh, passionate about building dynamic and intuitive web applications with React, Next.js, Node.js, Express, and MongoDB. Always exploring the web, one project at a time.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahatab6&label=Profile%20views&color=0e75b6&style=flat" alt="mahatab6" />
-</p>
+</p
 
 ---
 
