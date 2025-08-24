@@ -48,6 +48,7 @@
   [![Gmail](https://img.shields.io/badge/-mahatabcall56@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahatabcall56@gmail.com)  
   [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/mahatab156)  
   [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mdmahatabhosenraju)
+  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801743643156)
 
 - 🧰 Projects are available at:  
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahatab6)  
