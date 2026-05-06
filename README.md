@@ -76,14 +76,6 @@ Expert in the **MERN & PERN** stacks with a strong focus on **Next.js** and **No
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatab6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahatab6&show_icons=true&theme=github_dark&hide_border=true" alt="mahatab6's GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/mahatab6">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahatab6&bg_color=000000&color=00B477&line=00B477&point=ffffff&area=true&hide_border=true" alt="mahatab6's github activity graph" />
   </a>
